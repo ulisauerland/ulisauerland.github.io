@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there.  I am theoretical linguist.
+Hi there.  I am theoretical linguist.  You find more information about me on [my institutional page](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland) here.
+
 
 # Current news (March 2024)
 
