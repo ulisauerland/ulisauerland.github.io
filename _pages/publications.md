@@ -14,7 +14,7 @@ Most of my articles are on <a href="https://scholar.google.de/citations?hl=en&us
 
 ### Some articles
 
-A few of my articles are reported by Google scholar as not accessible despite a funding mandate. So I link them here in the hope that Google will pick this up.  This are available only for personal research use.
+A few of my articles are reported by Google scholar as not accessible despite a funding mandate. So I link them here in the hope that Google will pick this up.  The PDFs are available only for personal research use.
 
 - [The computation of scalar implicatures: Pragmatic, lexical or grammatical?](https://drive.google.com/file/d/1Jy1dlp0xRj7-Uphi6sQB8mgneXIOUGye/view?usp=sharing) U Sauerland
 Language and Linguistics Compass 6 (1), 36-49, 2012
