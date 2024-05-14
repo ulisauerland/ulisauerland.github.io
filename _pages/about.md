@@ -12,6 +12,8 @@ Hi there.  I am theoretical linguist.  You find more information about me on [my
 
 # Current news (May 2024)
 
+- Talk coming up on May 23-24 at [Syntactic expletives and (non-)compositionality](https://lling.univ-nantes.fr/fr/agenda-lling/syntactic-expletives-and-non-compositionality) in Nantes
+
 - new paper out in *Language Acquisition*: [The cum-sine pattern in German child language: An argument for antonym decomposition](https://doi.org/10.1080/10489223.2024.2332452)
 
 - I was selected by the CNRS as the 2024 [fellow-ambassador](https://www.cnrs.fr/en/update/cnrs-fellow-ambassadors-second-class-revealed) for the humanities & social sciences.  Very excited to visit my colleagues at the outstanding CNRS labs in linguistics over the next three years.
