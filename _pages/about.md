@@ -20,3 +20,5 @@ Hi there.  I am theoretical linguist.  You find more information about me on [my
 - a brief new paper presenting [An ex-situ focus semantics](https://lingbuzz.net/lingbuzz/010508)
 
 - also out in print now a handbook article on [Minimalism and a meaning first view](https://doi.org/10.1017/9781108864152). Here's the [manuscript](https://ling.auf.net/lingbuzz/005958)
+
+- and the result from stay in Paris last November: [Rethinking Compositionality](https://doi.org/10.5281/zenodo.23201701)
